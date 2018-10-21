@@ -1,0 +1,12 @@
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\bin\Debug\Operaciones matriciales.exe.config
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\bin\Debug\Operaciones matriciales.exe
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\bin\Debug\Operaciones matriciales.pdb
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\bin\Debug\Operaciones matriciales.xml
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\obj\Debug\Operaciones matriciales.vbprojAssemblyReference.cache
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\obj\Debug\Operaciones_matriciales.Form1.resources
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\obj\Debug\Operaciones_matriciales.Resources.resources
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\obj\Debug\Operaciones matriciales.vbproj.GenerateResource.cache
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\obj\Debug\Operaciones matriciales.vbproj.CoreCompileInputs.cache
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\obj\Debug\Operaciones matriciales.exe
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\obj\Debug\Operaciones matriciales.xml
+C:\Users\bxjc1\Desktop\Operaciones matriciales\Operaciones matriciales\obj\Debug\Operaciones matriciales.pdb
